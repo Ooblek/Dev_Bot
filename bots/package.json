@@ -1,0 +1,19 @@
+{
+  "name": "slack-welcomer",
+  "version": "1.0.0",
+  "description": "Welcomes people",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://aur.archlinux.org/slack-desktop.git"
+  },
+  "author": "Beetle",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
